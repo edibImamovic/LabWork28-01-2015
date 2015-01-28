@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<people>
+ <person name ='Edib' lastName = 'Imamovic'/>
+ <person name ='Jesenko' lastName = 'Gavric'/>
+ <person name ='Adnan' lastName = 'Spahic'/>
+ <person name ='Gorjan' lastName = 'Kalauzovic'/>
+ <person name ='Benjamin' lastName = 'Talic'/>
+ <person name ='Hikmet' lastName = 'Durgutovic'/>
+</people>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<people>
+ <person name ='Edib' lastName = 'Imamovic'>
+ <child name ='Jesenko' lastName = 'Imamovic'/>
+</person>
+ <person name ='Jesenko' lastName = 'Gavric'>
+ <child name ='Jesenko' lastName = 'Gavric'/>
+</person>
+ <person name ='Adnan' lastName = 'Spahic'>
+ <child name ='Jesenko' lastName = 'Spahic'/>
+</person>
+ <person name ='Gorjan' lastName = 'Kalauzovic'>
+</person>
+ <person name ='Benjamin' lastName = 'Talic'>
+</person>
+ <person name ='Hikmet' lastName = 'Durgutovic'>
+ <child name ='SekaAleksic' lastName = 'Durgutovic'/>
+</person>
+</people>
